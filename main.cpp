@@ -153,7 +153,7 @@ void cal(){
         tilt
     );
     led1=!led1;
-    printf("x:%1.4f\r\n",dix);
+ //   printf("x:%1.4f\r\n",dix);
       wait(0.1);
    }
     ta.reset();
